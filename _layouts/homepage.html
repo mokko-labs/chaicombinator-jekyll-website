@@ -7,11 +7,16 @@
 <body>
   {% include header.html %}
 
-  <div class="content">
+  {% include hero.html %}
 
+  <div class="container">
     {{content}}
-
   </div>
+
+  <div class="container">
+      {% include meetups.html %}
+  </div>
+
   {% include footer.html %}
 
 </body>

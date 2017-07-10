@@ -1,0 +1,36 @@
+
+<script>
+    $.getJSON( "https://api.meetup.com/2/events?group_urlname=chaicombinator&status=past&desc=desc", function( data ) {
+      var items = [];
+      $.each( data.results, function( key, val ) {
+        items.push( "<li id='" + key + "'><a href=\"" + val.event_url + "\" target=\"_blank\">" + val.name + "</a> at " + val.venue.name + " on " + $.format.date(val.time, "dd/MM/yyyy @ h:mm p") + "</li>" );
+      });
+
+      $( "<ul/>", {
+        "class": "list-unstyled",
+        html: items.join( "" )
+    }).appendTo( "#recent-meetups" );
+  });
+
+  $.getJSON( "https://api.meetup.com/2/events?group_urlname=chaicombinator", function( data ) {
+    var items = [];
+    $.each( data.results, function( key, val ) {
+      items.push( "<li id='" + key + "'><a href=\"" + val.event_url + "\" target=\"_blank\">" + val.name + "</a> at " + val.venue.name + " on " + $.format.date(val.time, "dd/MM/yyyy @ h:mm p") + "</li>" );
+    });
+
+    $( "<ul/>", {
+      "class": "list-unstyled",
+      html: items.join( "" )
+  }).appendTo( "#upcoming-meetups" );
+});
+</script>
+
+<h3>Upcoming Meetups</h3>
+<div id="upcoming-meetups">
+
+</div>
+
+<h3>Recent Meetups</h3>
+<div id="recent-meetups">
+
+</div>

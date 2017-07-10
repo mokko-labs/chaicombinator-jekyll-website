@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: homepage
 ---
 
 
@@ -9,7 +9,4 @@ If you are going to copy silicon valley, copy it properly and duplicate the whol
 Chai Combinator (Ahmedabad) is here to support startups in various ways, designed to complement existing organizations.
 
 ### Where do you meet?
-302 Parshwanath Business Park, Anandnagar Road, Prahladnagar, Ahmedabad 380014. Every Saturday from 3-6pm and weekdays by appointment.
-
-
-**We've got a lot more information coming. Just hang on..**
+Mokko Labs: 302 Parshwanath Business Park, Anandnagar Road, Prahladnagar, Ahmedabad 380014. Every Saturday from 3-6pm and weekdays by appointment.

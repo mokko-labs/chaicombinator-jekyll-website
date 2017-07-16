@@ -20,13 +20,35 @@ footer {
   margin-top: 30px;
   margin-bottom: 30px;
   padding: 20px;
-  box-shadow: 0px 10px 25px rgba(0, 0, 0, 0.2);
+  box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.2);
   border: none;
   border-radius: 12px;
+  transition: box-shadow 0.4s ease;
+
+  &:hover {
+    box-shadow: 0px 10px 25px rgba(0, 0, 0, 0.1);
+
+  }
 }
 
 .content-area {
   background: #efefef;
-  padding-top: 100px;
+  padding-top: 40px;
   padding-bottom: 100px;
+}
+
+.publication {
+  h1 {
+    display: block;
+    padding-bottom: 10px;
+    border-bottom: 1px solid black;
+    margin-bottom: 20px;
+  }
+}
+
+.highlighter-rouge {
+  padding: 20px;
+  border-radius: 10px;
+  background: white;
+  word-wrap: break-word;
 }

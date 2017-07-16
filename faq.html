@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<h3>FAQ</h3>
+
+{% for faq in site.data.faqs %}
+  <div class="card">
+    <div class="card-block">
+      <strong>{{faq.question}}</strong><br />
+      {{faq.answer}}
+    </div>
+  </div>
+{% endfor %}

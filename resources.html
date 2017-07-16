@@ -2,8 +2,6 @@
 layout: default
 ---
 
-<h3>Resources</h3>
-
 <h5>Publications</h5>
 {% for item in site.data.resources.publications %}
   <div class="card">
@@ -13,6 +11,17 @@ layout: default
     </div>
   </div>
 {% endfor %}
+
+<h5>Resources</h5>
+{% for item in site.data.resources.resources %}
+  <div class="card">
+    <div class="card-block">
+      <a href="{{item.link}}" target="_blank"><strong>{{item.title}}</strong></a><br />
+      {{item.description}}
+    </div>
+  </div>
+{% endfor %}
+
 
 <h5>Organizations</h5>
 {% for item in site.data.resources.organizations %}

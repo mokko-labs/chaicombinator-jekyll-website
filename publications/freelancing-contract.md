@@ -4,7 +4,7 @@ layout: publication
 
 Version: 0.2
 
-Author: Mitesh Shah
+Author: Mitesh Shah (mitesh@mokko.io)
 
 
 ## Summary
@@ -48,32 +48,32 @@ We are proposing a new way to solve these problems by using this template contra
 
 Agreement Participants & Duration
 
-This agreement establishes a contractual working relationship between ______________ (the Startup) and _____________ (the Freelancer) starting ______________ (Start Date) and ending ______________ (End Date, which only specifies when the Freelancer contract ends, not the end date for Royalty Payments).
+This agreement establishes a contractual working relationship between \_\_\_\_\_\_\_\_\_\_ (the Startup) and \_\_\_\_\_\_\_\_\_\_ (the Freelancer) starting \_\_\_\_\_\_\_\_\_\_ (Start Date) and ending \_\_\_\_\_\_\_\_\_\_ (End Date, which only specifies when the Freelancer contract ends, not the end date for Royalty Payments).
 
 Rates & Royalty
 
-The Freelancer's target rate is _______ per hour/week/month.
+The Freelancer's target rate is \_\_\_\_\_\_\_\_\_\_ per hour/week/month.
 
-The Startup will, however, pay the Freelancer ________ per hour/week/month (the Actual Rate), and the difference between the Target Rate and Actual Rate (Deferred Royalty Base Rate) will accumulate into the Deferred Royalty system as follows:
+The Startup will, however, pay the Freelancer \_\_\_\_\_\_\_\_\_\_ per hour/week/month (the Actual Rate), and the difference between the Target Rate and Actual Rate (Deferred Royalty Base Rate) will accumulate into the Deferred Royalty system as follows:
 
 - The Startup agrees that the Freelancer is sharing the risk and is thus entitled to rewards if this startup does succeed.
-- Deferred Royalty will be equal to Deferred Royalty Base Rate + ________% (the Immediate Reward).
-- The total Deferred Royalty owed under this agreement will accumulate in value at the rate of _____% per month/quarter/year until fully paid/converted (the Long Term Reward).
-- The maximum payout of the Deferred Royalty for the Freelancer is capped at __________________. (the Royalty Cap) (Leave blank if no cap is needed)
+- Deferred Royalty will be equal to Deferred Royalty Base Rate + \_\_\_\_\_\_\_\_\_\_% (the Immediate Reward).
+- The total Deferred Royalty owed under this agreement will accumulate in value at the rate of \_\_\_\_\_\_\_\_\_\_% per month/quarter/year until fully paid/converted (the Long Term Reward).
+- The maximum payout of the Deferred Royalty for the Freelancer is capped at \_\_\_\_\_\_\_\_\_\_. (the Royalty Cap) (Leave blank if no cap is needed)
 - For accounting purposes, Deferred Royalty is not a loan or actual debt and should not enter the books as such. Rather works like an executive bonus IF & WHEN one of the Payout Conditions occur.
 
 Payout Conditions
 
-* The Startup (or IP owner) is still functional as of __________. (the Maximum Date)(Leave this blank if there is no Maximum Date)
-* The Startup raises _________ in capital internally or from investors (Leave this blank if payout is NOT triggered based on funding).
-* The Startup grows to __________ in gross revenue. (Leave this blank if payout is NOT triggered based on gross revenue).
-* The Startup reaches ___________ in profits. (Leave this blank if payout is NOT triggered based on profits).
-* The Startup is acquired for any amount greater than _______ or by an entity whose valuation is greater than ________ or by an entity whose turnover is greater than _______. If the Startup, or the work product is acquired by another entity for less than this amount, then the new owner automatically replaces the Startup for the scope of this contract. (We recommend NOT to leave this blank).
+* The Startup (or IP owner) is still functional as of \_\_\_\_\_\_\_\_\_\_. (the Maximum Date)(Leave this blank if there is no Maximum Date)
+* The Startup raises \_\_\_\_\_\_\_\_\_\_ in capital internally or from investors (Leave this blank if payout is NOT triggered based on funding).
+* The Startup grows to \_\_\_\_\_\_\_\_\_\_ in gross revenue. (Leave this blank if payout is NOT triggered based on gross revenue).
+* The Startup reaches \_\_\_\_\_\_\_\_\_\_ in profits. (Leave this blank if payout is NOT triggered based on profits).
+* The Startup is acquired for any amount greater than \_\_\_\_\_\_\_\_\_\_ or by an entity whose valuation is greater than \_\_\_\_\_\_\_\_\_\_ or by an entity whose turnover is greater than \_\_\_\_\_\_\_\_\_\_. If the Startup, or the work product is acquired by another entity for less than this amount, then the new owner automatically replaces the Startup for the scope of this contract. (We recommend NOT to leave this blank).
 * The Startup decides to pay the bonus early. Yay!
 
 Optional Equity Conversion Clause
 
-* The Startup agrees that the Freelancer may opt to receive shares instead of currency for the Deferred Royalty payout. The price of shares will be set based on the valuation of the company at the time of payout minus _____% as a discount.
+* The Startup agrees that the Freelancer may opt to receive shares instead of currency for the Deferred Royalty payout. The price of shares will be set based on the valuation of the company at the time of payout minus \_\_\_\_\_\_\_\_\_\_% as a discount.
 
 Termination Conditions
 

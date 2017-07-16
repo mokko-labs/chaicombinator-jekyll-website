@@ -3,6 +3,11 @@ publications:
   description: A template contract that outlines a new approach enabling high end freelancers to work with cash strapped startups where the risk and the reward can be shared by both parties; thereby aligning their interests for long term success.
   link: /publications/freelancing-contract
 
+resources:
+- title: Chai Combinator website code
+  description: This is an open and honest organization. So, the code should be the same. All are free to learn from it / contribute to it on GitHub (contribute using Pull Requests).
+  link: https://github.com/mokko-lab/chaicombinator-jekyll-website
+
 organizations:
 - title: Startup School
   description: A massive online course by Y-Combinator to train co-founder and help launch amazing startups. Chai Combinator *highly* encourages all of its members to watch all of the videos on this website so they can have foundational knowledge necessary to work with / on a startup; given by some of the best and brightest minds in Silicon Valley.
